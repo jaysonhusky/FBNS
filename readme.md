@@ -13,6 +13,11 @@ Monitors via a centralised list, multiple companies websites and provides realti
 As of January 1 2017, the FBNS App and it's development are currently suspended until further notice.
 
 
+## Thanks
+
+* TheilJ for MetroFramework (https://thielj.github.io/MetroFramework/)
+
+
 ## Changelog
 
 1.0.0 (2016-09-11)
