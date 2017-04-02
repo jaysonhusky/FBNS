@@ -3,6 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="ListURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">latest.xml</Value>
     </Setting>
     <Setting Name="AlertChoice" Type="System.String" Scope="User">
       <Value Profile="(Default)">0</Value>
