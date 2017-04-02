@@ -20,6 +20,4 @@ As of January 1 2017, the FBNS App and it's development are currently suspended 
 
 ## Changelog
 
-1.0.0 (2016-09-11)
-
-Initial commit.
+1.0.0 - Initial commit.
